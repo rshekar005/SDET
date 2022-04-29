@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/Bitbucket/SDET/src/test/java/com/qa/dataprovider">
+        <classes>
+            <class name="com.qa.dataprovider.TestOne">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>
+            <class name="com.qa.dataprovider.TestTwo">
+                <methods>
+                    <include name="test2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

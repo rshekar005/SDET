@@ -1,0 +1,216 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 887,
+      "fname": "Manoj",
+      "address": {
+        "city": "Amalapuram",
+        "state": "AP"
+      },
+      "roles": [
+        "Manual testing",
+        "Automation testing"
+      ],
+      "fte": false
+    },
+    {
+      "id": 462,
+      "fname": "Manoj",
+      "address": {
+        "city": "Amalapuram",
+        "state": "AP"
+      },
+      "roles": [
+        "Manual testing",
+        "Automation testing"
+      ],
+      "fte": false
+    },
+    {
+      "id": 645,
+      "fname": "",
+      "address": {
+        "city": "Hyderabad",
+        "state": "telangana"
+      },
+      "roles": [
+        "functional",
+        "Non Functional"
+      ],
+      "fte": true
+    },
+    {
+      "id": 974,
+      "fname": "Rajashekar",
+      "address": {
+        "city": "Amalapuram",
+        "state": "AP"
+      },
+      "roles": [
+        "Manual testing",
+        "Automation testing"
+      ],
+      "fte": true
+    },
+    {
+      "id": 545,
+      "fname": "",
+      "address": {
+        "city": "Hyderabad",
+        "state": "telangana"
+      },
+      "roles": [
+        "functional",
+        "Non Functional"
+      ],
+      "fte": true
+    },
+    {
+      "id": 446,
+      "fname": "Rajashekar",
+      "address": {
+        "city": "Amalapuram",
+        "state": "AP"
+      },
+      "roles": [
+        "Manual testing",
+        "Automation testing"
+      ],
+      "fte": false
+    },
+    {
+      "id": 942,
+      "fname": "",
+      "address": {
+        "city": "Hyderabad",
+        "state": "telangana"
+      },
+      "roles": [
+        "functional",
+        "Non Functional"
+      ],
+      "fte": false
+    },
+    {
+      "id": 971,
+      "fname": "Rajashekar",
+      "address": {
+        "city": "Amalapuram",
+        "state": "AP"
+      },
+      "roles": [
+        "Manual testing",
+        "Automation testing"
+      ],
+      "fte": false
+    },
+    {
+      "id": 258,
+      "fname": "",
+      "address": {
+        "city": "Hyderabad",
+        "state": "telangana"
+      },
+      "roles": [
+        "functional",
+        "Non Functional"
+      ],
+      "fte": true
+    },
+    {
+      "id": 913,
+      "fname": "Amar",
+      "address": {
+        "city": "Amalapuram",
+        "state": "AP"
+      },
+      "roles": [
+        "Manual testing",
+        "Automation testing"
+      ],
+      "fte": false
+    },
+    {
+      "id": 929,
+      "fname": "",
+      "address": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "roles": [
+        "functional",
+        "Non Functional"
+      ],
+      "fte": false
+    },
+    {
+      "id": 675,
+      "fname": null,
+      "address": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "roles": [
+        "functional",
+        "Non Functional"
+      ],
+      "fte": true
+    },
+    {
+      "id": 985,
+      "fname": "Rajashekar",
+      "address": {
+        "city": "Amalapuram",
+        "state": "AP"
+      },
+      "roles": [
+        "Manual testing",
+        "Automation testing"
+      ],
+      "fte": false
+    },
+    {
+      "id": 840,
+      "fname": "Amar",
+      "address": {
+        "city": "Amalapuram",
+        "state": "AP"
+      },
+      "roles": [
+        "Manual testing",
+        "Automation testing"
+      ],
+      "fte": true
+    },
+    {
+      "id": 601,
+      "fname": null,
+      "address": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "roles": [
+        "functional",
+        "Non Functional"
+      ],
+      "fte": true
+    }
+  ]
+}

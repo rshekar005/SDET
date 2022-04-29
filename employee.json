@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "fname": "Rajashekar,",
+  "isFTE": true,
+  "address": {
+    "city": "Hyderabad",
+    "state": "Telangana"
+  },
+  "roles": [
+    "Manual testing",
+    "Automation Testing"
+  ]
+}
