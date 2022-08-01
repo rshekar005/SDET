@@ -46,13 +46,13 @@ public class UseCase1 {
         return list.toArray();*/
 
     }
-    @Test(dataProvider = "getData")
+    /*@Test(dataProvider = "getData")
     public void test1(int a) {
         System.out.println(a);
-    }
+    }*/
 
     @Test(dataProvider = "getData2")
     public void test2(int a, int b, int c) {
-        System.out.println(a);
+        System.out.println(a+" "+ b + " "+c);
     }
   }
